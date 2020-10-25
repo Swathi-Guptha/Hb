@@ -10,13 +10,14 @@ To run the above code the requirements are:
 Setup:  
    • Python 3.7  
    • Laptop with a webcam  
+   • HaarCascade frontalface default
      
 Modules:  
   
 • Opencv  
 • datetime        
 • Matplotlib    
-• Pytimeparse    
+• Pytimeparse  
 • Pylab  
 • Skimage     
    
