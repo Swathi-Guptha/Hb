@@ -14,26 +14,17 @@ Setup:
 Modules:  
   
 • Opencv  
-   pip install opencv-python   
-   pip install opencv-contrib-python  
-      
-• datetime      
-   pip install datetime    
-    
-• Matplotlib  
-   pip install matplotlib  
-  
-• Pytimeparse  
-   pip install pytimeparse  
-  
+• datetime        
+• Matplotlib    
+• Pytimeparse    
 • Pylab  
-   pip install pylab  
-  
-• Skimage  
-   pip install scikit-image   
+• Skimage     
    
 To install all the modules run:  
-   # pip install -r requirements.txt
+  
+```python 
+                     pip install -r requirements.txt  
+```    
   
 # Run the project:
 
@@ -44,7 +35,7 @@ To install all the modules run:
 The above commands will run the project. In order to smoothly execute the code a fluorescent light should be placed in front of the person’s face.
 
 # Input Image:    
-                     (https://github.com/Swathi-Guptha/Hb/blob/master/FaceDetection.png?raw=true)
+   ![(a)](https://github.com/Swathi-Guptha/Hb/blob/master/FaceDetection.png?raw=true)  
    
 • The webcam must track the person’s face perfectly using haarcascade frontal face detection.  
 • The green box is used to detect the person’s face.  
@@ -54,6 +45,12 @@ The above commands will run the project. In order to smoothly execute the code a
 • The person need to wait until 90 frames to get the heartrate  
   
 # OutputSample  
+
+![(a)](https://github.com/Swathi-Guptha/Hb/blob/master/HeartRateGraph.png)   
+   
+![(b)](https://github.com/Swathi-Guptha/Hb/blob/master/RGBCIE.png)  
+  
+![(d)](https://github.com/Swathi-Guptha/Hb/blob/master/Terminal.png)
   
 # Figure (a):    
 • This graph represents the change in ppg (Photoplethysmography) signals with time.  
@@ -71,9 +68,12 @@ The above commands will run the project. In order to smoothly execute the code a
 • The frames in which the face is not detected are pruned.    
 • The measured HeartRate is also displayed on the cmd.  
 
-References:   
+# References:   
 • https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995145/
 
-• http://www.ep.liu.se/ecp/129/002/ecp16129002.pdf
+• http://www.ep.liu.se/ecp/129/002/ecp16129002.pdf  
+  
+# Contributors:  
+   @LakshmiGayathri19
 
 
