@@ -74,6 +74,6 @@ The above commands will run the project. In order to smoothly execute the code a
 • http://www.ep.liu.se/ecp/129/002/ecp16129002.pdf  
   
 # Contributors:  
-   @LakshmiGayathri19
+   @LakshmiGayathri19 [ https://github.com/LakshmiGayathri19 ]
 
 
