@@ -31,6 +31,9 @@ Modules:
   
 • Skimage  
    pip install scikit-image   
+   
+To install all the modules run:  
+   # pip install -r requirements.txt
   
 # Run the project:
 
@@ -40,8 +43,8 @@ Modules:
   
 The above commands will run the project. In order to smoothly execute the code a fluorescent light should be placed in front of the person’s face.
 
-# Input Image:
-  
+# Input Image:    
+                     (https://github.com/Swathi-Guptha/Hb/blob/master/FaceDetection.png?raw=true)
    
 • The webcam must track the person’s face perfectly using haarcascade frontal face detection.  
 • The green box is used to detect the person’s face.  
