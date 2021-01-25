@@ -76,5 +76,6 @@ The above commands will run the project. In order to smoothly execute the code a
   
 # Contributors:  
    @LakshmiGayathri19 [ https://github.com/LakshmiGayathri19 ]
+   @suraj-pingali [ https://github.com/suraj-pingali ]
 
 
